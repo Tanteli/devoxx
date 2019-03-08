@@ -10,7 +10,7 @@ public class RegistrantDto {
     @NotBlank
     private String lastname;
     
-    @NotBlank
+    
     private int daysnumber;
     
     public RegistrantDto() {
